@@ -27,3 +27,61 @@ Understanding the 12 Principles of Animation
 Short Principles Animation
 
 Short Principles Amination
+
+
+#August 23 - August 29
+
+##Learning Objectives
+
+Basics of Animation
+
+Basic Animation Tools in Maya
+
+##Tasks and Assignments
+
+##Learning Resources
+
+Animators Survival Kit Videos
+
+Principles of Animation Short
+
+#August 30 - September 5
+
+Maya Ball Bounce Animation
+
+Maya Bouncing Ball Tutorial
+
+Ball Bounce Reference
+
+
+#September 6 - September 12
+
+##Learning Objectives
+
+
+##Tasks and Assignments
+
+Animation Skill Builders
+
+Animation Skill Builders
+
+
+##Learning Resources
+
+Maya User Manual Animation Links
+
+Maya Timeline
+
+Maya Timeline 2
+
+Keying Animation
+
+Maya Graph Editor
+
+Maya Tangents
+
+Maya Animation Skill Builders Guide
+
+#September  - September 
+
+
