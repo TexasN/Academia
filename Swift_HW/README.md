@@ -28,3 +28,25 @@ FORUM: Dream Mobile Game
 ##Do / Complete These
 
 1.4 - 1.6 Sign Off
+
+#Week -3 -- 9/03/18 - 9/09/18
+
+1.7 Documentation
+
+1.8 Interface Builder Basics
+
+1.7 - 1.8 - Guided Project - Sign Off
+
+#Week -4 -- 9/10/18 - 9/16/18
+
+Guided Project-Light
+
+#Week -5 -- 9/17/18 - 9/23/18
+
+2.1 Strings
+
+2.2 Functions
+
+2.3 Structures
+
+2.1 - 2.3 Sign Off
