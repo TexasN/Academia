@@ -98,6 +98,42 @@ Chapter 5 Exam (DUE 9-25-18)
 
 6.3.1.7 Lab Windows 7
 
+#September 26 - October 2
+
+Week 7 - Chapter 6: Windows Configuration and Management
+ 
+
+    6.1.1.5 Lab - Task Manager in Windows 8 File
+
+6.1.1.9 Lab - Install Third-Party Software in Windows 8 File
+6.1.2.3 Lab - Create User Accounts in Windows 8 File
+6.1.2.12 Lab - Manage Virtual Memory in Windows 8 File
+6.1.2.14 Lab - Device Manager in Windows 8 File
+6.1.3.7 Lab - Monitor and Manage System Resources in Windows 8 File
+6.1.4.2 Lab - Hard Drive Maintenance in Windows 8 File
+6.3.1.2 Lab - Managing the Startup Folder in Windows 8 File
+6.3.1.5 Lab - Task Scheduler in Windows 8 File
+6.3.1.7 Lab - System Restore in Windows 8 File
+6.1.1.5 Lab Windows 8 Assignment
+6.1.1.9 Lab Windows 8 Assignment
+6.1.2.3 Lab Windows 8 Assignment
+6.1.2.12 Lab Windows 8 Assignment
+6.1.2.14 Lab Windows 8 Assignment
+6.1.3.7 Lab Windows 8 Assignment
+6.1.4.2 Lab Windows 8 Assignment
+6.3.1.2 Lab Windows 8 Assignment
+6.3.1.5 Lab Windows 8 Assignment
+6.3.1.7 Lab Windows 8 Assignment
+
+Practice Exams 2 Assignment
+
+This week
+
+#October 3 - October 9
+
+Week 8 - Chapter 6: Windows Configuration and Management
+
+Chapter 6 Exam
 
 
 
