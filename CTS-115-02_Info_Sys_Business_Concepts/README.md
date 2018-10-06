@@ -211,5 +211,194 @@ After reading the article, you will need to answer the following questions:
 
 The questions can be answered in a Word document and uploaded to Moodle for submission. Use complete sentences and proper grammar when answering.
 
+#Chapter 6 | Networks and Cloud Computing
 
+    _____________________________________________
+    This week we will:
+        Identify and briefly describe three network topologies and four different network types, including the uses and limitations of each.
+        Identify and briefly discuss several types of both guided and wireless communications.
+        Identify several network hardware devices and define their functions.
+        Briefly describe how the Internet and the Web work, including various methods for connecting to the Internet.
+        Outline the process and tools used in developing Web content and applications.
+        List and briefly describe several Internet and Web applications.
+        Explain how intranets and extranets use Internet technologies, and describe how the two differ.
+        Define what is meant by the Internet of Things (IoT), and explain how it works.
+        Identify and briefly discuss several practical applications of the Internet of Thins (IoT).
+        Categorize and summarize several potential issues and barriers associated with the expansion of the Internet of Things (IoT).
+        Discuss how cloud computing can increase the speed and reduce the costs of new product and service launches.
+        Summarize three common problems organizations encounter in moving to the cloud.
+        Discuss the pros and cons of private and hybrid cloud computing compared to public cloud computing.
+
+    _____________________________________________
+
+Chapter Resources
+Physical Textbook: Chapter 6 - Networks and Cloud Computing Page
+
+Chapter location and included features.
+VIEW: Chapter 6 PowerPoint Presentation File
+
+The PowerPoint can be used as an outline or study guide
+Weekly Assignments
+
+ASSIGNMENT(S) DUE DATE:  10-2-18 by 11:00pm
+
+ 
+
+Chapter 6 Web Exercise Assignment
+
+ASSIGNMENT:
+
+Recently, net neutrality has been a topic of discussion. Net neutrality is the principle that Internet service providers should be required to treat all Internet traffic running over their wired and wireless networks the same—without favoring content from some sources and/or blocking or slowing (also known as throttling) content from others. The debate over net neutrality raises questions about how best to keep the Internet open and impartial while still offering Internet service providers sufficient incentive to expand their networks to serve more customers and to support new services. Do research to find out the current status of net neutrality in the United States.
+
+ASSIGNMENT: Write a report summarizing your findings and upload for grading.
+Part 2 Exam Quiz
+
+Part 2 Exam based on Chapters 3-6. 
+
+#Chapter 7 | Electronic and Mobile Commerce
+
+    _____________________________________________
+    This week we will:
+        Describe the current status of various forms of e-commerce, including B2B, B2C, C2C, and e-government
+        Outline a multistage purchasing model that describes how e-commerce works.
+        Define m-commerce and identify some of its unique challenge.
+        Identify several e-commerce and m-commerce applications.
+        Identify several advantages associated with the use of e-commerce and m-commerce.
+        Identify the many benefits and challenges associated with the continued growth of e-commerce and m-commerce.
+        Outline the key components of a successful  e-commerce and m-commerce strategy.
+        Identify the key components of technology infrastructure that must be in place for e-commerce and m-commerce to work.
+        Discuss the key features of the electronic payment systems needed to support e-commerce and m-commerce.
+
+    _____________________________________________
+
+Chapter Resources
+Physical Textbook: Chapter 7 - Electronic and Mobile Commerce Page
+
+Chapter location and included features.
+VIEW: Chapter 7 PowerPoint Presentation File
+
+The PowerPoint can be used as an outline or study guide
+Weekly Assignments
+
+ASSIGNMENT(S) DUE DATE: 10-9-18 by 11:00pm
+
+ 
+
+Chapter 7 Problem-Solving Exercise Assignment
+
+        ASSIGNMENT:
+
+        One of the biggest issues consumers have with e-commerce and m-commerce is security. Recently, we have seen an increase in data breaches with several well-known and frequently used companies.
+
+        DIRECTIONS:
+
+        Use PowerPoint or some other presentation preparation software to produce a presentation of the key steps that an organization must take in the aftermath of a data breach to calm its customers and restore their faith in the firm. Please follow the below guidelines:
+            Your presentation should include a minimum of 5 slides
+            Cite your source
+            Be creative 
+
+Skip Navigation
+Hide Navigation block
+Navigation
+
+    Home
+
+        Dashboard
+
+        Site pages
+
+        My courses
+
+            2018FA CSC-118-01HY
+
+            2018FA CTS-115-02IN
+
+                Participants
+
+                BadgesBadges
+
+                Grades
+
+                General
+
+                Welcome - Start Here!
+
+                Chapter 1 | An Introduction to Information Systems
+
+                Chapter 2 | Information Systems in Organizations
+
+                Chapter 3 | Hardware and Mobile Devices
+
+                Chapter 4 : Software and Mobile Applications
+
+                Chapter 5 | Database Systems and Big Data
+
+                Chapter 6 | Networks and Cloud Computing
+
+                Chapter 7 | Electronic and Mobile Commerce
+
+            2018FA CTS-220-71HY
+
+            2018FA SGD-162-01HY
+
+            Student Activities
+
+            Moodle Introduction for Students
+
+Skip Calendar
+Hide Calendar block
+Calendar
+◄
+October 2018
+►
+Sun 	Mon 	Tue 	Wed 	Thu 	Fri 	Sat
+  	1 	
+2
+	3 	4 	
+5
+	6
+7 	8 	9 	10 	11 	12 	13
+14 	15 	16 	17 	18 	19 	20
+21 	22 	23 	24 	25 	26 	27
+28 	29 	30 	31 	  	  	 
+
+    Hide global events Hide global events
+    Hide category events Hide category events
+    Hide course events Hide course events
+    Hide group events Hide group events
+    Hide user events Hide user events
+
+Skip Search forums
+Hide Search forums block
+Search forums
+Search
+Search
+
+Advanced search Help with Search
+Skip Recent activity
+Hide Recent activity block
+Recent activity
+Activity since Friday, October 5, 2018, 2:47 PM
+Full report of recent activity...
+
+No recent activity
+Skip Activities
+Hide Activities block
+Activities
+
+    AssignmentAssignments
+    External toolExternal tools
+    ForumForums
+    QuizQuizzes
+    Resources
+
+Skip Latest news
+Hide Latest news block
+Latest news
+(No announcements have been posted yet.)
+Skip Upcoming events
+Hide Upcoming events block
+Upcoming events
+There are no upcoming events
+Go to calendar...
 
