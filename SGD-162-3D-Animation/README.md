@@ -82,6 +82,26 @@ Maya Tangents
 
 Maya Animation Skill Builders Guide
 
-#September  - September 
+#September 13 - September 19
+
+##Constraints and Set Driven Keys
+
+##Path Animation
+
+#Tasks and Assignments
+
+###Inclement Weather Make-Up Assignments
+
+Weather Make-Up 9/12/2018 Path Animation - Axe Throw
+Weather Make-Up 9/17/2018 3D Animation - Bend Deformer Catapult
+
+##Learning Resources
+
+Catapult Guide
+
+Video Guide Part 1 of 3 -Axe Throw Animation
+
+#September19 - September 
+
 
 
